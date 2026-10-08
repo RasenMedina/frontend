@@ -6,7 +6,7 @@
             "type": "shell",
             "command": "tsc -p tsconfig.json",
             "options": {
-                "cwd": "${workspaceFolder}/Ex_objectes/src"
+                "cwd": "${workspaceFolder}/Examen/src"
             },
             "problemMatcher": "$tsc",
             "group": {
