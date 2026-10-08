@@ -12,5 +12,7 @@
         "strict": true,
         "allowsJS": false,
         "removeComments": true
-    }
+    },
+    "files": ["global.d.ts"],
+    "include": ["./**/*.ts"]
 }
