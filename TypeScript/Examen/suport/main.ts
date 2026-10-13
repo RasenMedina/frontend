@@ -1,3 +1,6 @@
+
+/*
+
 import * as html from "./Html.js";
 import * as textos from "./Textos.js";
 import * as funcions from "./Funcions.js";
@@ -26,3 +29,20 @@ function main(): void {
 }
 
 main();
+
+*/
+
+/*
+L'HTML corresponent necessita, com a mínim:
+<input type="text" id="nom">
+<input type="number" id="edat">
+<button id="boto">Processar</button>
+<div id="resultat"></div>
+
+<script type="module" src="Main.js"></script>
+
+
+Aquest és un exemple propi de plantilla, no l'HTML que et proporcionarà el professor.
+
+
+*/
